@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Luan Santos!</strong>
 
-🔭 Acabei de me formar no curso de Análise e Desenvolvimento de Sistemas. E atualmente estou estudando as linguagens TypeScript e JavaScript, e já desenvolvendo alguns projetos em ReactJS e NodeJS.
+🔭 Recém formado no curso de Análise e Desenvolvimento de Sistemas, atualmente estou estudando as linguagens TypeScript e JavaScript, e já desenvolvendo alguns projetos em ReactJS e NodeJS.
 
 ---------
 
