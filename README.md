@@ -1,34 +1,20 @@
-## 💜 Olá, meu nome é <strong>Luan Santos!</strong>
+# Luan Santos
 
-🔭 Recém formado no curso de Análise e Desenvolvimento de Sistemas, atualmente estou estudando as linguagens TypeScript e JavaScript, e já desenvolvendo alguns projetos em React Native e ReactJs.
+Desenvolvedor Full Stack com experiência real nos dois lados: back-end via WordPress/PHP (temas e plugins customizados) e front-end com HTML, CSS, JavaScript e React. Atuo há mais de 5 anos com desenvolvimento web, unindo implementação técnica, SEO técnico e Core Web Vitals, além de aplicação prática de IA para automação de processos e desenvolvimento de produto.
 
----------
+## Tecnologias
 
-## ⭐ Linguagens e tecnologias que estou aprendendo
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+**Back-end:** PHP, WordPress, Node.js, NestJS
+**Front-end:** JavaScript, TypeScript, React, HTML5, CSS3
+**Banco de dados:** PostgreSQL, MongoDB
+**Infraestrutura:** AWS Lightsail, VPS, Cloudflare
+**Outros:** SEO Técnico, Core Web Vitals, Git, Prompt Engineering / IA aplicada a produto
 
+## Formação
 
+Tecnólogo em Análise e Desenvolvimento de Sistemas, Universidade Paulista (UNIP)
 
-----------
+## Contato
 
-
-## ⭐ Informações sobre minha conta GitHub
-![luan-sant GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-sant&show_icons=true&theme=radical)
-
-
-
----------
-
-💬 Caso queira entrar em contato
-<p align="left">
-  <a href="luanlss10@outlook.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-  <a href="https://api.whatsapp.com/send?phone=5513991970326" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  <a href="#" alt="Facebook">
- 
+Email: ss.luan99@gmail.com
+LinkedIn: linkedin.com/in/luan-sant
